@@ -2,7 +2,7 @@ import './child.css'
 
 function sample(){
     const Samp=()=>{
-        alert("is it clear for submission") 
+        alert("is it clear for submission????") 
     }
     return(
 <div>
