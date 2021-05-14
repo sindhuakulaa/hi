@@ -13,7 +13,7 @@ function Teste(){
     
 return(
     <div className="main">
-        <span>FirstName</span>
+        <span>MyFirstName</span>
    <input id="x" type="text" placeholder="entername"/>
    <span>LastName</span>
 <input id="xx"type="text" placeholder="eneter Lastname" />
