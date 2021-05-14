@@ -1,0 +1,13 @@
+#f{
+    padding: 5px;
+    position: relative;
+    left:10px;
+    background-color: rgb(101, 101, 155);
+
+  }
+  #i1{
+    color: black;
+    border-style: solid;
+    padding:5px;
+    border-color: red;
+  }
