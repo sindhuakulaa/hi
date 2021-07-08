@@ -8,7 +8,7 @@ function Teste(){
         var ln=document.getElementById("xx").value;
         document.getElementById("z").innerHTML=fn+ln;
 
-        alert("eelldo")
+        alert("haiivanakkam")
     }
     
 return(
